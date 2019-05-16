@@ -15,5 +15,5 @@ We will be using a Firebase framework integrated with Google Cloud, and work wit
 # Team Members 
 - Syed Talib Naqvi - Front End
 - Syed Abidi - Firebase Framework 
-- Adeel Bhatti - Authentication
+- Adeel Bhatti - Front End
 - Ashkan Mofidi - Authentication
